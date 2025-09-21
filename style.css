@@ -119,8 +119,18 @@ body {
     height: 160px;
     object-fit: cover;
 }
+.project-card div {
+    padding: 16px;
+}
 .project-card h3 {
     margin: 0;
+    margin-bottom: 8px;
+}
+.project-card p {
+    margin: 0;
+    color: #666;
+    font-size: 0.9em;
+    line-height: 1.4;
 }
 .skills-list {
     padding: 0;
